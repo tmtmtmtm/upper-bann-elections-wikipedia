@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Upper_Bann_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751737",
+    "start": "1983",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
